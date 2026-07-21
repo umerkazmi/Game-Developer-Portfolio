@@ -91,16 +91,14 @@ Add/Remove Sections: Modular layout makes it easy to modify
 A single-player survival game where I contributed as a developer. Features puzzle mechanics, horror elements, and strategic design.
 
 📌 License
-This project is available for personal use and open-source contributions.
+This project is available for personal use and open source contributions.
 
 🙋‍♂️ Contact
-📧 Email: your-email@example.com
+📧 Email: kazmi.omer@gmail.com
 
-🌐 Website: your-portfolio-link.com
+🐙 GitHub: @umerkazmi
 
-🐙 GitHub: @yourusername
-
-🔗 LinkedIn: Your Name
+🔗 LinkedIn: Umer Kazmi
 
 vbnet
 Copy
